@@ -45,7 +45,7 @@ QuizMaster is an interactive quiz game built with Angular. It presents users wit
 - **Build Tools:** Vite, Angular CLI
 
 ## 👥 Credits
-- Developed by: [Your Name]
+- Developed by: DevFaith 
 - Special thanks to: The Angular and Vite communities
 
 ## 📜 License
